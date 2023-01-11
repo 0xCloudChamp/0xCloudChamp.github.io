@@ -10,5 +10,5 @@ tags: [testing]
 Hello and welcome to my homelab 
 
 ```python
-print(Hello world)-dos
+print(Hello world)-tres
 ```
