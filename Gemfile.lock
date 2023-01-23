@@ -108,8 +108,8 @@ GEM
     yell (2.2.2)
 
 PLATFORMS
-  x86_64-linux
   x86_64-linux-1
+  x86_64-linux
 
 DEPENDENCIES
   html-proofer (~> 3.18)
